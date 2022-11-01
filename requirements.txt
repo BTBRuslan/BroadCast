@@ -1,1 +1,3 @@
-
+psutil
+aiofiles
+pymongo[srv
